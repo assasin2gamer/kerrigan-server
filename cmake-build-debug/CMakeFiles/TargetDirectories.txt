@@ -1,0 +1,3 @@
+/home/k/CLionProjects/untitled/cmake-build-debug/CMakeFiles/hf_trading.dir
+/home/k/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

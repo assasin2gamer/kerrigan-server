@@ -1,0 +1,7 @@
+/home/k/source/code/server/v1/build/CMakeFiles/hf_trading.dir
+/home/k/source/code/server/v1/build/CMakeFiles/edit_cache.dir
+/home/k/source/code/server/v1/build/CMakeFiles/rebuild_cache.dir
+/home/k/source/code/server/v1/build/CMakeFiles/list_install_components.dir
+/home/k/source/code/server/v1/build/CMakeFiles/install.dir
+/home/k/source/code/server/v1/build/CMakeFiles/install/local.dir
+/home/k/source/code/server/v1/build/CMakeFiles/install/strip.dir
