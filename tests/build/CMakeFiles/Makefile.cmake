@@ -35,7 +35,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/k/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.31/Modules/Platform/Linux-Initialize.cmake"
   "/home/k/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.31/Modules/Platform/Linux.cmake"
   "/home/k/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.31/Modules/Platform/UnixPaths.cmake"
-  "/home/k/source/code/server/v1/src/tests/CMakeLists.txt"
+  "/home/k/source/code/server/v1/tests/CMakeLists.txt"
   "CMakeFiles/3.31.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.31.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.31.2/CMakeSystem.cmake"
